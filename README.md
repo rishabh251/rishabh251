@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rishabh251
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning HTML, css, javascript.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and analytics.
+- 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me ...
 
 <!---
